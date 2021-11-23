@@ -1,0 +1,13 @@
+﻿
+
+
+Wczytaj z konsoli scięzkę do pliku 
+następnie wczytaj z konsoli jeden wyraz np: ma
+
+następnie program wypisuje ile razy  podany wyraz znajduje się w pliku
+
+przykładowa zawartość pliku: 
+ala ma 
+kota i ma psa
+
+wynik 2

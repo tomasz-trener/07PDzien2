@@ -1,0 +1,12 @@
+﻿
+
+Wczytaj ze strony.. http://tomaszles.pl/wp-content/uploads/2019/06/zawodnicy.txt
+
+zawodników
+
+następnie wczytaj z konsoli nazwe kraju np: pol 
+
+wygeneruj nowy plik z imionami i nazwiskami zawodników z danego kraju
+nazwa pliku to w naszym przypadku pol.txt 
+
+

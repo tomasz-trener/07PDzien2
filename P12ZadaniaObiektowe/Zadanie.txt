@@ -1,0 +1,7 @@
+﻿
+
+Spróbuj przenieśc logikę programu (p07) z pogodą do osobnej klasy,
+która udostępnia przydatną metodę.
+
+Spróbuj przenieśc logikę programu (p06) z pogodą do osobnej klasy,
+która udostępnia przydatną metodę.
